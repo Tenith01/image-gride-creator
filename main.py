@@ -7,4 +7,4 @@ for filePath in filePaths:
     print(filePath)
     if __name__ == "__main__":
         # pack_images_into_sheet("images", "sheet.png")
-        pack_images_into_sheet("VFX flattened\\" + str(filePath), "VFX flattened Sprite heets\\" + str(filePath)+".png")
+        pack_images_into_sheet("VFX flattened\\" + str(filePath), "VFX flattened Sprite heets\\" + str(filePath))
