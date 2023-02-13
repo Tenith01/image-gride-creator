@@ -54,4 +54,4 @@ def pack_images_into_sheet(directory, sheet_filename):
 
 
 if __name__ == "__main__":
-    pack_images_into_sheet("images", "sheet.png")
+    pack_images_into_sheet("DFK Assests\\Export V8 (Rig-v0.1.8)\\Archer\\Barrage\\Barrage Fullscreen", "sheet.png")
