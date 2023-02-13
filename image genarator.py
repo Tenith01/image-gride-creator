@@ -2,6 +2,7 @@ import random
 import PIL
 from PIL import Image, ImageDraw, ImageFont
 
+
 def generate_image(width, height, text, font, font_size, text_color, background_color, border_width, border_color):
     image = Image.new("RGB", (width, height), background_color)
     draw = ImageDraw.Draw(image)
@@ -16,8 +17,10 @@ def generate_image(width, height, text, font, font_size, text_color, background_
     border.paste(image, (border_width_half, border_width_half))
     return border
 
+
 def save_image(image, filename):
     image.save(filename, "PNG")
+
 
 if __name__ == "__main__":
     width = 500
@@ -30,6 +33,7 @@ if __name__ == "__main__":
         background_color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
         border_color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
         text = str(i)
-        image = generate_image(width, height, text, font, font_size, text_color, background_color, border_width, border_color)
+        image = generate_image(width, height, text, font, font_size, text_color, background_color, border_width,
+                               border_color)
         filename = "images/image_{}.png".format(i)
         save_image(image, filename)

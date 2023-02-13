@@ -1,11 +1,18 @@
 import math
 import os
+import re
 from PIL import Image
+
+
+def natural_sort(l):
+    convert = lambda text: int(text) if text.isdigit() else text.lower()
+    alphanum_key = lambda key: [convert(c) for c in re.split('([0-9]+)', key)]
+    return sorted(l, key=alphanum_key)
 
 
 def load_images_from_directory(directory):
     images = []
-    for filename in os.listdir(directory):
+    for filename in natural_sort(os.listdir(directory)):
         try:
             image = Image.open(os.path.join(directory, filename))
             images.append(image)
