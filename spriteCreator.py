@@ -2,7 +2,7 @@ import math
 import os
 import re
 from PIL import Image
-from readFilePath import get_file_paths
+from StatArray import add_to_json_file
 
 
 def natural_sort(l):
@@ -49,9 +49,10 @@ def pack_images_into_sheet(directory, sheet_filename):
         images = load_images_from_directory(directory)
     widths, heights = zip(*(i.size for i in images))
     max_width, max_height = max(widths), max(heights)
-
+    sprite_sheet_url = sheet_filename + "-" + str(max_width) + "x" + str(max_height) + ".png"
+    add_to_json_file(max_width, max_height, sprite_sheet_url, len(images))
     sheet = create_image_sheet(images, max_width, max_height)
-    save_image_sheet(sheet, sheet_filename + "-" + str(max_width) + "x" + str(max_height) + ".png")
+    save_image_sheet(sheet, sprite_sheet_url)
 
 # if __name__ == "__main__":
 #     # pack_images_into_sheet("images", "sheet.png")

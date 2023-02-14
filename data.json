@@ -1,0 +1,434 @@
+[
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-forever-vigilant-hit-356x200.png",
+        "frameCount": 11
+    },
+    {
+        "frameWidth": 556,
+        "frameHeight": 312,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-sharp-shooter-fullscreen-556x312.png",
+        "frameCount": 10
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-forever-vigilant-attack-356x200.png",
+        "frameCount": 14
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-prayer-of-protection-attack-356x200.png",
+        "frameCount": 54
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-sharp-shooter-attack-356x200.png",
+        "frameCount": 64
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-prayer-of-might-attack-356x200.png",
+        "frameCount": 39
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-prayer-of-protection-hit-356x200.png",
+        "frameCount": 60
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-iron-will-hit-356x200.png",
+        "frameCount": 25
+    },
+    {
+        "frameWidth": 555,
+        "frameHeight": 312,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-piercing-arrow-attack-full screen-555x312.png",
+        "frameCount": 48
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-hold-the-line-attack-356x200.png",
+        "frameCount": 9
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-swiftness-attack-356x200.png",
+        "frameCount": 31
+    },
+    {
+        "frameWidth": 1600,
+        "frameHeight": 900,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-holy-beacon-hit-1600x900.png",
+        "frameCount": 28
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-interception-hit-356x200.png",
+        "frameCount": 25
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-holy-beacon-attack-356x200.png",
+        "frameCount": 55
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-barrage-attack-356x200.png",
+        "frameCount": 61
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-bow-mastery-hit-356x200.png",
+        "frameCount": 34
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-basic-attack-356x200.png",
+        "frameCount": 21
+    },
+    {
+        "frameWidth": 556,
+        "frameHeight": 312,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-holy-wrath-fullscreen-556x312.png",
+        "frameCount": 17
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-basic-hit-356x200.png",
+        "frameCount": 18
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-volly-attack-356x200.png",
+        "frameCount": 22
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-twin-arrow-attack-356x200.png",
+        "frameCount": 45
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-shield-smash-attack-356x200.png",
+        "frameCount": 18
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-divine-barrier-attack-back-356x200.png",
+        "frameCount": 17
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-holy-wrath-hit-front-356x200.png",
+        "frameCount": 44
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-prayer-of-might-hit-356x200.png",
+        "frameCount": 38
+    },
+    {
+        "frameWidth": 555,
+        "frameHeight": 312,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-iron-will-attack-555x312.png",
+        "frameCount": 27
+    },
+    {
+        "frameWidth": 556,
+        "frameHeight": 312,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-barrage-fullscreen-556x312.png",
+        "frameCount": 17
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-divine-barrier-hit-front-356x200.png",
+        "frameCount": 54
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-bow-mastery-attack-356x200.png",
+        "frameCount": 89
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-shroud-attack-356x200.png",
+        "frameCount": 92
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-full-heal-attack-356x200.png",
+        "frameCount": 41
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-prayer-of-clarity-hit-356x200.png",
+        "frameCount": 37
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-sharp-shooter-hit-356x200.png",
+        "frameCount": 19
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-basic-attack-356x200.png",
+        "frameCount": 11
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-volly-hit-356x200.png",
+        "frameCount": 11
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-holy-circle-attack-356x200.png",
+        "frameCount": 103
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-basic-hit-356x200.png",
+        "frameCount": 11
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-dead-aim-attack-356x200.png",
+        "frameCount": 53
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-cleansing-gift-hit-356x200.png",
+        "frameCount": 15
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-prayer-of-clarity-attack-356x200.png",
+        "frameCount": 48
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-holy-light-hit-356x200.png",
+        "frameCount": 48
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-freedom-hit-356x200.png",
+        "frameCount": 23
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-repeating-shot-hit-356x200.png",
+        "frameCount": 96
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-twin-arrow-hit-356x200.png",
+        "frameCount": 15
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-clensing-gift-attack-356x200.png",
+        "frameCount": 19
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-piercing-arrow-hit-356x200.png",
+        "frameCount": 12
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-hunters-mark-attack-356x200.png",
+        "frameCount": 24
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-interception-attack-356x200.png",
+        "frameCount": 15
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-hold-the-line-hit-356x200.png",
+        "frameCount": 17
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-rapid-shot-hit-356x200.png",
+        "frameCount": 19
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-one-small-stone-attack-356x200.png",
+        "frameCount": 27
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-basic-attack-356x200.png",
+        "frameCount": 24
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-freedom-attack-356x200.png",
+        "frameCount": 20
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-shield-smash-hit-356x200.png",
+        "frameCount": 27
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-holy-circle-attack-back-356x200.png",
+        "frameCount": 230
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-dead-aim-hit-356x200.png",
+        "frameCount": 15
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-royal-guard-attack-356x200.png",
+        "frameCount": 60
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-hunters-mark-hit-356x200.png",
+        "frameCount": 74
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-repeating-shot-attack-356x200.png",
+        "frameCount": 80
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-basic-hit-356x200.png",
+        "frameCount": 12
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-swiftness-hit-356x200.png",
+        "frameCount": 21
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-holy-light-attack-356x200.png",
+        "frameCount": 59
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-holy-wrath-hit-back-356x200.png",
+        "frameCount": 42
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-full-heal-hit-356x200.png",
+        "frameCount": 2
+    },
+    {
+        "frameWidth": 556,
+        "frameHeight": 312,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-volly-fullscreen-556x312.png",
+        "frameCount": 12
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-one-small-stone-hit-356x200.png",
+        "frameCount": 95
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-holy-wrath-attack-356x200.png",
+        "frameCount": 44
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-holy-circle-attack-front-356x200.png",
+        "frameCount": 230
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-rapid-shot-attack-356x200.png",
+        "frameCount": 58
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\archer-barrage-hit-356x200.png",
+        "frameCount": 17
+    },
+    {
+        "frameWidth": 556,
+        "frameHeight": 312,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\priest-divine-barrier-attack-front-556x312.png",
+        "frameCount": 57
+    },
+    {
+        "frameWidth": 356,
+        "frameHeight": 200,
+        "spriteSheetUrl": "VFX flattened Sprite heets\\knight-iron-shield-attack-356x200.png",
+        "frameCount": 49
+    }
+]
