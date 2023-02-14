@@ -1,8 +1,23 @@
 import math
 import os
 import re
+from pathlib import Path
+
 from PIL import Image
 from StatArray import add_to_json_file
+
+
+def convert_to_camel_case(s):
+    # Split the string into words based on the '-' character
+    words = s.split('-')
+
+    # Capitalize the first letter of each word after the first one
+    camel_case_words = [words[0]] + [word.capitalize() for word in words[1:]]
+
+    # Join the words together and remove the extension
+    camel_case_string = ''.join(camel_case_words)
+
+    return camel_case_string
 
 
 def natural_sort(l):
@@ -44,13 +59,15 @@ def save_image_sheet(sheet, filename):
     sheet.save(filename, "PNG")
 
 
-def pack_images_into_sheet(directory, sheet_filename):
-    if (load_images_from_directory(directory)):
-        images = load_images_from_directory(directory)
+def pack_images_into_sheet(source_dir, destination_dir, effect_name):
+    source_path = Path(source_dir) / effect_name
+    sheet_filename = Path(destination_dir) / effect_name
+    if (load_images_from_directory(source_path)):
+        images = load_images_from_directory(source_path)
     widths, heights = zip(*(i.size for i in images))
     max_width, max_height = max(widths), max(heights)
-    sprite_sheet_url = sheet_filename + "-" + str(max_width) + "x" + str(max_height) + ".png"
-    add_to_json_file(max_width, max_height, sprite_sheet_url, len(images))
+    sprite_sheet_url = str(sheet_filename) + "-" + str(max_width) + "x" + str(max_height) + ".png"
+    add_to_json_file(max_width, max_height, sprite_sheet_url, len(images), convert_to_camel_case(effect_name))
     sheet = create_image_sheet(images, max_width, max_height)
     save_image_sheet(sheet, sprite_sheet_url)
 

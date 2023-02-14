@@ -1,13 +1,14 @@
 import json
 
 
-def add_to_json_file(frameWidth, frameHeight, spriteSheetUrl,frameCount):
+def add_to_json_file(frameWidth, frameHeight, spriteSheetUrl,frameCount,vfxId):
     # Read the contents of the file
     with open("data.json", "r") as file:
         data = json.load(file)
 
     # Add a new dictionary to the list
     data.append({
+        "vfxId": vfxId,
         "frameWidth": frameWidth,
         "frameHeight": frameHeight,
         "spriteSheetUrl": spriteSheetUrl,
